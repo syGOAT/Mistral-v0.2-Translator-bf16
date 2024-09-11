@@ -1,5 +1,6 @@
 **Please see [the repository in huggingface](https://huggingface.co/syGOAT/Mistral-v0.2-Translator-bf16) instead!!!**
 
+---
 license: other
 library_name: peft
 tags:
