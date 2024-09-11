@@ -1,4 +1,4 @@
-**Please see [the repository in huggingface](https://huggingface.co/syGOAT/Mistral-v0.2-Translator-bf16) instead!!!**
+**Note: Please see [the repository in huggingface](https://huggingface.co/syGOAT/Mistral-v0.2-Translator-bf16) instead!!!**
 
 ---
 license: other
